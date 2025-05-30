@@ -1,7 +1,4 @@
-# 
-<img src="Black and Gray Minimalist Shapes Personal Profile Linkedin Banner.jpg" alt="Github Banner" width=100%/>
-
-💫 About Me:
+# 💫 About Me:
 Hi, I’m Parth Singh, a BCA student currently in my 4th semester with a deep interest in computer networks and cybersecurity. I have a clear understanding of core networking concepts like TCP/IP, DNS, Firewalls, routing, and have experimented with tools such as Cisco Packet Tracer and Wireshark to explore how real-world networks operate. I’m also familiar with working in both Windows and Linux environments.
 
 
